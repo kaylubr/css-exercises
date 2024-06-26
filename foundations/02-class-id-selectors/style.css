@@ -10,8 +10,9 @@
 
 #id-four {
     background-color: hsl(130, 91%, 78%);
+    font-weight: bold;
 }
 
-.class-one.cooler {
+.cooler {
     font-size: 24px;
 }
